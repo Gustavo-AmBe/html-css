@@ -1,0 +1,142 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Sriracha';
+    src: url(fontes/Sriracha-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Passion one';
+    src: url(fontes/PassionOne-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    min-height: 150px;
+    text-align: center;
+    color: white;
+    height: 200px;
+}
+
+header h1{
+    font-size: 50px;
+    font-family: 'passion one', cursive;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+header h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header strong{
+    font-size: 20px;
+}
+
+.e1{
+    margin: 70px 0px 70px 20px;
+    line-height: 35px;
+    font-family: 'Sriracha', cursive;
+}
+
+/* -- Parallax Effect -- */
+
+.e2parallax{
+    background-image: url(imagens/background001.jpg);
+    min-height: 500px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.e2parallax p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.418);
+    line-height: 35px;
+    min-width: 300px;
+    width: 20%;
+    margin: 0;
+    padding: 8px 15px;
+    font-family: 'Sriracha', cursive;
+}
+
+/* -- Parallax Effect -- */
+
+.e3{
+    margin: 70px 0px 70px 20px;
+    line-height: 35px;
+    font-family: 'Sriracha', cursive;
+}
+
+.e4{
+    margin: 70px 0px 70px 20px;
+    line-height: 35px;
+    font-family: 'Sriracha', cursive;
+}
+
+/* -- Parallax Effect -- */
+
+.e5parallax{
+    background-image: url(imagens/background002.jpg);
+    min-height: 500px;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.e5parallax p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.418);
+    line-height: 35px;
+    min-width: 300px;
+    width: 20%;
+    margin: 0;
+    padding: 8px 15px;
+    font-family: 'Sriracha', cursive;
+}
+
+/* -- Parallax Effect -- */
+
+.e6{
+    margin: 70px 0px 70px 20px;
+    line-height: 35px;
+    font-family: 'Sriracha', cursive;
+}
+
+.e7{
+    margin: 70px 0px 70px 20px;
+    line-height: 35px;
+    font-family: 'Sriracha', cursive;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+footer p a{
+    padding-left : 5px;
+}
+
