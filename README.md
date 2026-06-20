@@ -40,7 +40,7 @@ A pasta `html-css` foi criada para documentar e organizar meu aprendizado em des
 
 ## Link rápido
 
-- [Abrir exercício EX001](https://gustavo-ambe.github.io/html-css/exercicios/EX001/index.html)
+- [Abrir exercício EX001](https://gustavo-ambe.github.io/html-css/exercicios/Módulo-01/EX001/index.html)
 
 ## Observações
 
