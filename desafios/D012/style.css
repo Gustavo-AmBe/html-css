@@ -20,17 +20,17 @@
 
 header{
     background-color: black;
-    min-height: 150px;
+    min-height: 188px;
     text-align: center;
     color: white;
-    height: 200px;
+    height: 250px;
 }
 
 header h1{
-    font-size: 50px;
+    font-size: 70px;
     font-family: 'passion one', cursive;
-    padding-top: 50px;
-    padding-bottom: 10px;
+    padding-top: 62px;
+    padding-bottom: 12px;
 }
 
 header h4{
@@ -38,12 +38,13 @@ header h4{
 }
 
 header strong{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .e1{
-    margin: 70px 0px 70px 20px;
-    line-height: 35px;
+    margin: 88px 0px 90px 25px;
+    line-height: 75px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
@@ -59,30 +60,35 @@ header strong{
     flex-direction: column;
     justify-content: center;
     padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .e2parallax p{
     color: white;
     background-color: rgba(0, 0, 0, 0.418);
-    line-height: 35px;
-    min-width: 300px;
+    line-height: 52px;
+    min-width: 375px;
     width: 20%;
     margin: 0;
-    padding: 8px 15px;
+    padding: 10px 19px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
 /* -- Parallax Effect -- */
 
 .e3{
-    margin: 70px 0px 70px 20px;
-    line-height: 35px;
+    margin: 88px 0px 88px 25px;
+    line-height: 52px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
 .e4{
-    margin: 70px 0px 70px 20px;
-    line-height: 35px;
+    margin: 88px 0px 88px 25px;
+    line-height: 52px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
@@ -98,30 +104,35 @@ header strong{
     flex-direction: column;
     justify-content: center;
     padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .e5parallax p{
     color: white;
     background-color: rgba(0, 0, 0, 0.418);
-    line-height: 35px;
-    min-width: 300px;
+    line-height: 52px;
+    min-width: 375px;
     width: 20%;
     margin: 0;
-    padding: 8px 15px;
+    padding: 10px 19px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
 /* -- Parallax Effect -- */
 
 .e6{
-    margin: 70px 0px 70px 20px;
-    line-height: 35px;
+    margin: 88px 0px 88px 25px;
+    line-height: 52px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
 .e7{
-    margin: 70px 0px 70px 20px;
-    line-height: 35px;
+    margin: 88px 0px 88px 25px;
+    line-height: 52px;
+    font-size: 24px;
     font-family: 'Sriracha', cursive;
 }
 
